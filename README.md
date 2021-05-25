@@ -29,6 +29,6 @@ Repo for links from the MacDevOpsYVR 2021 talk "Digging for download URLs for Au
 - [Hopper Disassembler](https://www.hopperapp.com)
 
 ## One more thing...
--[FossHub & AutoPkg](https://macmule.com/2019/03/17/fosshub-autopkg/)
--[macadmins.software](https://macadmins.software)
--[#autopkg](https://macadmins.slack.com/archives/C056155B4)
+- [FossHub & AutoPkg](https://macmule.com/2019/03/17/fosshub-autopkg/)
+- [macadmins.software](https://macadmins.software)
+- [#autopkg](https://macadmins.slack.com/archives/C056155B4)
