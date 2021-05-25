@@ -4,14 +4,16 @@ Repo for links from the MacDevOpsYVR 2021 talk "Digging for download URLs for Au
 ## Static URLs
 - [AutoPKG FAQ](https://github.com/autopkg/autopkg/wiki/FAQ)
 - [RingCentral.download.recipe](https://github.com/autopkg/bradclare-recipes/blob/master/RingCentral/RingCentral.download.recipe)
+
+## Dynamic URLs
 - [The MUT.download.recipe](https://github.com/autopkg/dataJAR-recipes/blob/master/The%20MUT/The%20MUT.download.recipe)
 - [GitHubReleasesInfoProvider Processor](https://github.com/autopkg/autopkg/wiki/Processor-GitHubReleasesInfoProvider)
 - [KeeWeb.download.recipe](https://github.com/autopkg/dataJAR-recipes/blob/master/KeeWeb/KeeWeb.download.recipe)
 - [regex101](https://regex101.com)
 - [regex101 - KeeWeb example](https://regex101.com/r/Ic06gJ/1/)
-
-## Dynamic URLs
-- [curl](https://ss64.com/osx/curl.html)
+- [curl](https://everything.curl.dev/usingcurl/downloads)
+- [Lifesize.download.recipe](https://github.com/autopkg/dataJAR-recipes/blob/master/Lifesize/Lifesize.download.recipe)
+- [curl user-agent](https://everything.curl.dev/http/requests#user-agent)
 - [regex101 - RingCentral Classic example](https://regex101.com/r/SnpMgT/1)
 - [RingCentral Classic.download.recipe](https://github.com/autopkg/dataJAR-recipes/blob/master/RingCentral%20Classic/RingCentral%20Classic.download.recipe)
 
