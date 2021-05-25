@@ -4,6 +4,7 @@ Repo for links from the MacDevOpsYVR 2021 talk "Digging for download URLs for Au
 ## Static URLs
 - [AutoPKG FAQ](https://github.com/autopkg/autopkg/wiki/FAQ)
 - [RingCentral.download.recipe](https://github.com/autopkg/bradclare-recipes/blob/master/RingCentral/RingCentral.download.recipe)
+- [URLDownloader Processor](https://github.com/autopkg/autopkg/wiki/Processor-URLDownloader)
 
 ## Dynamic URLs
 - [The MUT.download.recipe](https://github.com/autopkg/dataJAR-recipes/blob/master/The%20MUT/The%20MUT.download.recipe)
@@ -16,6 +17,7 @@ Repo for links from the MacDevOpsYVR 2021 talk "Digging for download URLs for Au
 - [curl user-agent](https://everything.curl.dev/http/requests#user-agent)
 - [regex101 - RingCentral Classic example](https://regex101.com/r/SnpMgT/1)
 - [RingCentral Classic.download.recipe](https://github.com/autopkg/dataJAR-recipes/blob/master/RingCentral%20Classic/RingCentral%20Classic.download.recipe)
+- [URLTextSearcher Processor](https://github.com/autopkg/autopkg/wiki/Processor-URLTextSearcher)
 
 ## Updater URLs
 - [Charles Proxy](https://www.charlesproxy.com)
