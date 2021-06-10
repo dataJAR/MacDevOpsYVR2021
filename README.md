@@ -24,10 +24,10 @@ Repo for links from the MacDevOpsYVR 2021 talk "Digging for download URLs for Au
 
 ## Updater URLs
 - [Charles Proxy](https://www.charlesproxy.com)
+- [SparkleUpdateInfoProvider](https://github.com/autopkg/autopkg/wiki/Processor-SparkleUpdateInfoProvider)
 
 ## Dissasembly
 - [Sparkle](https://sparkle-project.org)
-- [SparkleUpdateInfoProvider](https://github.com/autopkg/autopkg/wiki/Processor-SparkleUpdateInfoProvider)
 - [Jamf Switcher.download.recipe](https://github.com/autopkg/dataJAR-recipes/blob/master/Jamf%20Switcher/Jamf%20Switcher.download.recipe)
 - [strings](https://www.unix.com/man-page/osx/1/strings/)
 - [Catalyst Prepare.download.recipe](https://github.com/autopkg/dataJAR-recipes/blob/master/Catalyst%20Prepare/Catalyst%20Prepare.download.recipe)
