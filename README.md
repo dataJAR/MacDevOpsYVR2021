@@ -2,7 +2,7 @@
 Repo for links from the MacDevOpsYVR 2021 talk "Digging for download URLs for AutoPkg recipes"
 
 ## Slides
-- [PDF of slides can be found here](https://github.com/dataJAR/MacDevOpsYVR2021/blob/main/2021%20-%20MacDevOpsYVR%20-%20Digging%20for%20download%20URLs%20for%20AutoPkg%20recipes.pdf)
+- [PDF of slides can be found here](https://github.com/dataJAR/MacDevOpsYVR2021/raw/main/2021%20-%20MacDevOpsYVR%20-%20Digging%20for%20download%20URLs%20for%20AutoPkg%20recipes.pdf)
 
 ## Static URLs
 - [AutoPKG FAQ](https://github.com/autopkg/autopkg/wiki/FAQ)
