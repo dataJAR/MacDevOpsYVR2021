@@ -28,8 +28,6 @@ Repo for links from the MacDevOpsYVR 2021 talk "Digging for download URLs for Au
 - [Jamf Switcher.download.recipe](https://github.com/autopkg/dataJAR-recipes/blob/master/Jamf%20Switcher/Jamf%20Switcher.download.recipe)
 - [strings](https://www.unix.com/man-page/osx/1/strings/)
 - [Catalyst Prepare.download.recipe](https://github.com/autopkg/dataJAR-recipes/blob/master/Catalyst%20Prepare/Catalyst%20Prepare.download.recipe)
-- [rege101 - Kinoni EpocCam Drivers example](https://regex101.com/r/0ScW4e/1)
-- [Kinoni EpocCam Drivers.download.recipe](https://github.com/autopkg/dataJAR-recipes/blob/master/Kinoni%20EpocCam%20Drivers/Kinoni%20EpocCam%20Drivers.download.recipe)
 - [Hopper Disassembler](https://www.hopperapp.com)
 
 ## One more thing...
